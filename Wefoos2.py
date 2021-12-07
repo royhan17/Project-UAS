@@ -3,7 +3,7 @@ def garis ():
 
 #Menu
 print("                                       WEFOOS ID                                      ")
-print("                            Tempat Nongkrong paling Asikk                            ")
+print("                            Tempat Clothing untuk milenial                            ")
 print("-------------------------------------------|------------------------------------------")
 print("Kode      Outwear               Harga      |  Kode       Pants                Harga   ")
 print("-------------------------------------------|------------------------------------------")
