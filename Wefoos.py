@@ -70,7 +70,7 @@ for i in range(banyak):
         harga_satuan=120000
         
     else:
-        ()
+        print("Maaf, kode tidak ditemukan")
         (exit)
 
 
